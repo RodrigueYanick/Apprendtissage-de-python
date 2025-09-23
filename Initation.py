@@ -1,1 +1,2 @@
-print("je debute en python")
+#\t perment de creer une tabulation
+print("\tje debute en python")
